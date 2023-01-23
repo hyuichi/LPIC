@@ -139,8 +139,4 @@ $ find / -name "man" 2>/dev/null
 #/usr/local/n/versions/node/18.13.0/lib/node_modules/npm/node_modules/cssesc/man
 ```
 
-### history
-### alias
-### su
-### ファイル: /usr/share/man
 
